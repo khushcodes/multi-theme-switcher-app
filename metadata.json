@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Theme Switcher App",
+  "description": "A React application that demonstrates a dynamic theme switcher. Users can select from three distinct themes that alter not just colors, but also layout, typography, and component structure, with theme preference saved to local storage.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
